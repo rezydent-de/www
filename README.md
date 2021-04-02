@@ -2,6 +2,8 @@
 
 https://startupsandplaces.com/shm2021-the-power-of-the-ecosystem/
 
+https://www.prawo.pl/kadry/rezygnacja-z-rezydencji-podatkowej-w-polsce-czy-trzeba-i-jak,504858.html
+
 # Rezydent Podatkowy Niemiec
 
 
