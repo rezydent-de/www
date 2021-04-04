@@ -1,3 +1,5 @@
+![rezydent.de](https://logo.rezydent.de/1/cover.png)
+
 # Startups, Berlin, 1 place
 
 https://startupsandplaces.com/shm2021-the-power-of-the-ecosystem/
