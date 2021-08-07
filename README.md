@@ -1,15 +1,23 @@
 ![rezydent.de](https://logo.rezydent.de/1/cover.png)
 
-# Startups, Berlin, 1 place
+# [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
+
+Inne tematy:
+
++ [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
++ [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
++ [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
+
+
+osoby fizyczne mogą mieć nieograniczony lub ograniczony obowiązek podatkowy w Polsce. Status rezydencji podatkowej w Polsce zależy od tego, czy dana osoba fizyczna posiada miejsce zamieszkania dla celów PDOF w Polsce. Jeśli ma miejsce zamieszkania w Polsce - podlega w naszym kraju nieograniczonemu obowiązkowi podatkowemu. Oznacza to, że opodatkowaniu podlega w takim przypadku światowy dochód bez względu na miejsce jego uzyskania. Z kolei, jeśli nie ma miejsca zamieszkania w Polsce - podlega jedynie ograniczonemu obowiązkowi podatkowemu. W takiej sytuacji opodatkowaniu podlega jedynie dochód uzyskany na terytorium Polski. A kiedy osoba fizyczna posiada miejsce zamieszkania w Polsce?
+
+
+## Startups, Berlin, 1 place
 
 https://startupsandplaces.com/shm2021-the-power-of-the-ecosystem/
 
 https://www.prawo.pl/kadry/rezygnacja-z-rezydencji-podatkowej-w-polsce-czy-trzeba-i-jak,504858.html
 
-# Rezydent Podatkowy Niemiec
-
-
-osoby fizyczne mogą mieć nieograniczony lub ograniczony obowiązek podatkowy w Polsce. Status rezydencji podatkowej w Polsce zależy od tego, czy dana osoba fizyczna posiada miejsce zamieszkania dla celów PDOF w Polsce. Jeśli ma miejsce zamieszkania w Polsce - podlega w naszym kraju nieograniczonemu obowiązkowi podatkowemu. Oznacza to, że opodatkowaniu podlega w takim przypadku światowy dochód bez względu na miejsce jego uzyskania. Z kolei, jeśli nie ma miejsca zamieszkania w Polsce - podlega jedynie ograniczonemu obowiązkowi podatkowemu. W takiej sytuacji opodatkowaniu podlega jedynie dochód uzyskany na terytorium Polski. A kiedy osoba fizyczna posiada miejsce zamieszkania w Polsce?
 
 ## Interesy osobiste
 
