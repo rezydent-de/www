@@ -146,3 +146,15 @@ https://www2.deloitte.com/pl/pl/pages/doradztwo-prawne/articles/newsletter-stref
 > 19.488 Euro
 > 
 > Der Grundfreibetrag ist als steuerfreier Jahresbetrag zu verstehen. Verdienst du im Jahr 2021 bis zu 9.744 Euro brutto, musst du keine Steuern zahlen. Das sind 812 Euro brutto pro Monat. Jeder Euro, der diesen Betrag übersteigt, gilt als [zu versteuerndes Einkommen](https://taxfix.de/steuertipps/zu-versteuerndes-einkommen/ "zu versteuerndes Einkommen"). In dem Fall lohnt sich dann eine Steuererklärung, die du mit [Taxfix](https://app.taxfix.de/ "Taxfix") sicher und unkompliziert einreichen kannst.
+
+
+
+
+---
+
+## Tom Sapletta
++ [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
++ [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
++ [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
+
+---
