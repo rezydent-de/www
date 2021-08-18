@@ -16,6 +16,28 @@ https://startupsandplaces.com/shm2021-the-power-of-the-ecosystem/
 https://www.prawo.pl/kadry/rezygnacja-z-rezydencji-podatkowej-w-polsce-czy-trzeba-i-jak,504858.html
 
 
+# Niemcy
+
+## Co tak na prawdę jest ważne?
+
+Niektórzy mówią, że innowacje
+
+Niemcy nie są we wszystkim najbardziej innowacyjni, umieją współpracować w celu wypracowania przestrzeni do zagospodarowania od wojny konwencjonalnej do protekcjonizmu w czasie pokoju.
+Polacy są skazani na rząd, który podnosi poprzeczkę Polakom a obniża zagranicznym korporacjom.
+Polecam przeprowadzkę, łatwiej nauczyć się języka obcego niż milionów stron polskiego prawa.
+
+Poza tym propaganda strachu/lockdown-u i urzędnicy nie pomagają w prowadzeniu biznesu.
+
+## Proste prawo
+
+to nie jest przypadek, że niemieckie prawo jest stabilne, o to trzeba dbać.
+
+
+## Stawki podatku
+
+
+
+## Zarobki
 
 
 [Steuertipps - Taxfix](https://taxfix.de/steuertipps/was-ist-der-grundfreibetrag-wie-hoch/)
