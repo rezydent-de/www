@@ -127,3 +127,8 @@ to nie jest przypadek, że niemieckie prawo jest stabilne, o to trzeba dbać.
 + [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
 
 ---
++ [edit](https://github.com/rezydent-de/www/edit/main/README.md)
+
+```
+https://github.com/rezydent-de/www.git
+```
