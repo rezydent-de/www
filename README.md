@@ -1,6 +1,6 @@
 ![rezydent.de](https://logo.rezydent.de/1/cover.png)
 
-# [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
+# [Dlaczego warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
 
 Inne tematy:
 
