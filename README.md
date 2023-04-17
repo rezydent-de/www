@@ -9,11 +9,67 @@ Inne tematy:
 + [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
 
 
+
+## Existenzgründung
+
+[Existenzgründung 2022: Der ultimative Guide](https://www.fuer-gruender.de/wissen/existenzgruendung-planen/)
+
+## Existenzgründung: Was brauche ich?
+
+Für eine erfolgreiche Existenzgründung sind folgende Schritte erforderlich:
+
+- **Geschäftsidee:** Gründer haben die Möglichkeit, mit einer eigenen Idee zu starten, mit einem Franchise zu gründen oder aber ein bestehendes Unternehmen zu übernehmen.
+- **Gründungssituation:** Je nachdem, wie Gründer starten (als Student, aus der Arbeitslosigkeit, etc.), gibt es verschiedene Bedingungen oder auch Fördermittel.
+- **Businessplan:** Auf dem Weg zur Existenzgründung hilft ein Businessplan bei allen wichtigen Planungsschritten.
+- **Finanzierung:** Förderung, Zuschüsse und Kredite helfen Gründern, ihren Kapitalbedarf zu stemmen.
+- **Genehmigungen:** Je nach Branche sind entsprechende Erlaubnisse, Genehmigungen oder Zertifikate erforderlich. 
+- **Anmeldungen:** Dies ist abhängig von der gewählten Rechtsform.  
+- **Gechäftskonto:** Gründer sollten bereits am dem ersten Cent Umsatz Privates von Geschäftlichem trennen.
+- **Versicherungen:** Je nachdem, welche Branche und welche Tätigkeit ausgeübt wird, sollten Gründer sowohl sich als auch ihr Unternehmen versichern. 
+- **Marketing:** Um Kunden für das eigene Business zu gewinnen, müssen Gründer die Werbetrommel schon vor der tatsächlichen Gründung rühren.
+- **Buchhaltung:** Nach der Gründung steht für alle Selbstständigen die Buchhaltung an.
+
+
+[Unterstützung für eine Existenzgründung | Bundesagentur für Arbeit](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/existenzgruendung-gruendungszuschuss)
+
+# Unterstützung für eine Existenzgründung
+
+Informieren Sie sich, was Sie vor einer Existenzgründung tun sollten. Erfahren Sie außerdem, wie die Agentur für Arbeit Ihren Start in die Selbstständigkeit unterstützen kann.
+Von der Arbeitslosigkeit in die Selbstständigkeit – das ist kein einfacher Schritt. Er kann Ihnen jedoch neue berufliche Chancen eröffnen. Holen Sie sich Unterstützung von Ihrer Agentur für Arbeit und lassen Sie sich umfassend beraten. Unter bestimmten Voraussetzungen können wir Sie finanziell unterstützen – mit einem Gründungszuschuss.
+
+
+
+[Welche Genehmigung ist bei der Existenzgründung nötig?](https://www.fuer-gruender.de/wissen/existenzgruendung-planen/recht-und-steuern/genehmigungen/)
+
+# Genehmigung und Erlaubnis für die Existenzgründung
+
+In Abhängigkeit davon, womit Sie sich konkret selbstständig machen wollen, gibt es bestimmte Anforderungen. Teilweise müssen Sie eine Erlaubnis oder Genehmigung einholen oder bestimmte Qualifikationen für den Start in die Selbstständigkeit nachweisen.
+
+Wir geben Ihnen nachfolgend einen Überblick - der Kontakt zur IHK, Handwerkskammer oder einem Rechtsanwalt ist jedoch auf Ihrem Weg in die Selbstständigkeit zu empfehlen.
+
+![][img1]
+
+![][img2]
+
+[img1]: https://www.fuer-gruender.de/typo3conf/ext/site_package/Resources/Public/Modules/Assets/illustrations/people/illu_woman.svg
+[img2]: https://www.fuer-gruender.de/typo3conf/ext/site_package/Resources/Public/Modules/Assets/illustrations/people/illu_man.svg
+
+
+[Gewerbe anmelden: Notwendige Unterlagen & Ausfüllhilfe](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/unternehmen-anmelden/gewerbeanmeldung/)
+
+# Gewerbe anmelden: Notwendige Unterlagen & Ausfüllhilfe
+
+Die Selbstständigkeit beginnt bei gewerblichen Gründern mit der Gewerbeanmeldung beim Gewerbeamt. Wir erläutern, welche Ausnahmen es gibt. Wir helfen, das [**Formular zur Gewerbeanmeldung**](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/unternehmen-anmelden/gewerbeanmeldung/#c38547) richtig auszufüllen und erklären, welche Unterlagen Sie zur Anmeldung benötigen.
+
+
+
+
 ## Startups, Berlin, 1 place
 
 https://startupsandplaces.com/shm2021-the-power-of-the-ecosystem/
 
 https://www.prawo.pl/kadry/rezygnacja-z-rezydencji-podatkowej-w-polsce-czy-trzeba-i-jak,504858.html
+
 
 
 # Niemcy
@@ -41,80 +97,7 @@ to nie jest przypadek, że niemieckie prawo jest stabilne, o to trzeba dbać.
 
 
 [Steuertipps - Taxfix](https://taxfix.de/steuertipps/was-ist-der-grundfreibetrag-wie-hoch/)
-
-> Der Grundfreibetrag stellt einen Teil deines Einkommens steuerfrei. Der Grund dafür ist das Existenzminimum. Lese hier nach, was beim Freibetrag wichtig ist.
-> 
-> ## Wie hoch ist der Grundfreibetrag?
-> 
-> Jedes Jahr ändert sich die Höhe des Grundfreibetrags:
-> 
-> Jahr
-> 
-> Ledige
-> 
-> Zusammenveranlagte Verheiratete
-> 
-> Grundfreibetrag 2012
-> 
-> 8.004 Euro
-> 
-> 16.008 Euro
-> 
-> Grundfreibetrag 2013
-> 
-> 8.130 Euro
-> 
-> 16.260 Euro
-> 
-> Grundfreibetrag 2014
-> 
-> 8.354 Euro
-> 
-> 16.708 Euro
-> 
-> Grundfreibetrag 2015
-> 
-> 8.472 Euro
-> 
-> 16.944 Euro
-> 
-> Grundfreibetrag 2016
-> 
-> 8.652 Euro
-> 
-> 17.304 Euro
-> 
-> Grundfreibetrag 2017
-> 
-> 8.820 Euro
-> 
-> 17.640 Euro
-> 
-> Grundfreibetrag 2018
-> 
-> 9.000 Euro
-> 
-> 18.000 Euro
-> 
-> Grundfreibetrag 2019
-> 
-> 9.168 Euro
-> 
-> 18.336 Euro
-> 
-> Grundfreibetrag 2020
-> 
-> 9.408 Euro
-> 
-> 18.816 Euro
-> 
-> Grundfreibetrag 2021
-> 
-> 9.744 Euro
-> 
-> 19.488 Euro
-> 
-> Der Grundfreibetrag ist als steuerfreier Jahresbetrag zu verstehen. Verdienst du im Jahr 2021 bis zu 9.744 Euro brutto, musst du keine Steuern zahlen. Das sind 812 Euro brutto pro Monat. Jeder Euro, der diesen Betrag übersteigt, gilt als [zu versteuerndes Einkommen](https://taxfix.de/steuertipps/zu-versteuerndes-einkommen/ "zu versteuerndes Einkommen"). In dem Fall lohnt sich dann eine Steuererklärung, die du mit [Taxfix](https://app.taxfix.de/ "Taxfix") sicher und unkompliziert einreichen kannst.
+Der Grundfreibetrag ist als steuerfreier Jahresbetrag zu verstehen. Verdienst du im Jahr 2021 bis zu 9.744 Euro brutto, musst du keine Steuern zahlen. Das sind 812 Euro brutto pro Monat. Jeder Euro, der diesen Betrag übersteigt, gilt als [zu versteuerndes Einkommen](https://taxfix.de/steuertipps/zu-versteuerndes-einkommen/ "zu versteuerndes Einkommen"). In dem Fall lohnt sich dann eine Steuererklärung, die du mit [Taxfix](https://app.taxfix.de/ "Taxfix") sicher und unkompliziert einreichen kannst.
 
 
 
