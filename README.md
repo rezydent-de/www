@@ -115,3 +115,5 @@ Der Grundfreibetrag ist als steuerfreier Jahresbetrag zu verstehen. Verdienst du
 ```
 https://github.com/rezydent-de/www.git
 ```
+
+<script src="//www.multisitemap.com/valid-links.js"></script>
